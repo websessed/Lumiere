@@ -1,0 +1,26 @@
+
+version 1: 
+    -user profiles
+    -upload, view, share & download photos 
+    -user owned photo collections
+    -lightbox integration
+    -social features
+    -photo metadata
+    -activity feed 
+
+
+version 2: 
+    -explore page 
+    -basic photo editing 
+    -photo stories 
+
+
+version 3: 
+    -all format support 
+    
+
+Tech stack {
+    node, express, postgres 
+    vanilla js, algolia 
+    Auth0
+}
